@@ -1,0 +1,59 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.684282,  
+                    50.128050
+                ]
+            },
+            "properties": {
+                "name": "basic",
+                "address": "Eckenheimer Landstraße 127",
+                "city": "Frankfurt am Main",
+                "country": "Deutschland",
+                "postalCode": "60318",
+                "partner": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.704858083732022,
+                    50.124768668230075
+                ]
+            },
+            "properties": {
+                "name": "denn's Biomarkt",
+                "address": "Berger Str. 155",
+                "city": "Frankfurt am Main",
+                "country": "Deutschland",
+                "postalCode": "60385",
+                "partner":true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.679138,
+                    50.116290
+                ]
+            },
+            "properties": {
+                "name": "Reformhaus Boermel-Ernst",
+                "address": "Schillerstraße 30-40",
+                "city": "Frankfurt am Main",
+                "country": "Deutschland",
+                "postalCode": "60313",
+                "partner":false
+            }
+        }
+    ]
+}
